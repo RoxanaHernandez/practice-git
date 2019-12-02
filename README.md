@@ -1,0 +1,2 @@
+# practice-git
+starting proyect
